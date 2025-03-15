@@ -1,2 +1,1 @@
-# makeQR
-QR codes generator
+
